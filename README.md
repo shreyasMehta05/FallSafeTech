@@ -45,7 +45,7 @@ IoT Project/
   - `run.py` - Python code for analysis 🐍
   - `running final.csv` - Data for the running scenario 📊
 
-  ![Run Final Image](path/to/Run/runFinal.png)
+  <!-- ![Run Final Image](path/to/Run/runFinal.png) -->
 
 - **Walk/**: Contains images, data files, and code related to the "walking" scenario. 🚶‍♂️
   - `finalWalk.png` - Final result of the walk scenario 🖼️
@@ -53,7 +53,7 @@ IoT Project/
   - `walk.py` - Python code for analysis 🐍
   - `Walk_final.csv` - Data for the walking scenario 📊
 
-  ![Walk Final Image](path/to/Walk/finalWalk.png)
+  <!-- ![Walk Final Image](path/to/Walk/finalWalk.png) -->
 
 - **Down/**: Includes data and code related to the "downward movement" scenario (e.g., descending stairs). ⬇️
   - `down_final.png` - Final result of the down scenario 🖼️
@@ -61,7 +61,7 @@ IoT Project/
   - `down.py` - Python code for analysis 🐍
   - `stair_down final.csv` - Data for the downward movement scenario 📊
 
-  ![Down Final Image](path/to/Down/down_final.png)
+  <!-- ![Down Final Image](path/to/Down/down_final.png) -->
 
 - **Up/**: Contains data and code related to the "upward movement" scenario (e.g., ascending stairs). ⬆️
   - `up_final.png` - Final result of the up scenario 🖼️
@@ -69,7 +69,7 @@ IoT Project/
   - `up.py` - Python code for analysis 🐍
   - `stir_up final.csv` - Data for the upward movement scenario 📊
 
-  ![Up Final Image](path/to/Up/up_final.png)
+  <!-- ![Up Final Image](path/to/Up/up_final.png) -->
 
 - **fallDetection/**: Contains the main `fallDetection.ino` file for the fall detection logic. ⚠️
   - `fallDetection.ino` - Code for fall detection based on `MPU 6050` sensor data. 🔧
@@ -104,7 +104,7 @@ IoT Project/
    - Data from different scenarios were used to calculate the jerk value and thresholds. 📊
    - `20,000 readings` were captured with the `ESP32` to set the threshold values for fall detection. 🧠
 
-   ![Fall Detection Data](path/to/fall_detection_plot.png)
+   <!-- ![Fall Detection Data](path/to/fall_detection_plot.png) -->
 
 3. **Logic**:
    - Based on the sensor data, thresholds for jerk, acceleration, and angular velocity were set. 📏
@@ -146,7 +146,7 @@ The following images depict the results for different scenarios processed using 
 
 - **Run Plot**: This plot illustrates the acceleration and angular velocity data collected during the running scenario.
 
-  ![Run Data](./Run/run.png)
+  ![Run Data](./IoT%20Project/Run/run.png)
 
 ---
 
@@ -154,7 +154,7 @@ The following images depict the results for different scenarios processed using 
 
 - **Walk Plot**: Visualizing the sensor data during a walking scenario.
 
-  ![Walk Data](./Walk/walk.png)
+  ![Walk Data](./IoT%20Project/Walk/walk.png)
 
 ---
 
@@ -162,7 +162,7 @@ The following images depict the results for different scenarios processed using 
 
 - **Up Plot**: The sensor readings captured while ascending stairs.
 
-  ![Up Data](./Up/up.png)
+  ![Up Data](./IoT%20Project/Up/up.png)
 
 ---
 
