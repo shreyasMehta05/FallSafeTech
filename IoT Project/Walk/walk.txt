@@ -1,0 +1,17 @@
+Net Acceleration Mean: 8.169650390408378
+Net Acceleration Standard Deviation: 4.715625882015043
+Net Acceleration Maximum: 20.024984394500787
+Net Acceleration Minimum: 0.0
+Net Gyro Mean: 1.1233052585562049
+Net Gyro Standard Deviation: 1.0858776072788965
+Net Gyro Maximum: 6.082762530298219
+Net Gyro Minimum: 0.0
+Rotation Angle Mean: 0.5616526292781024
+Rotation Angle Standard Deviation: 0.5429388036394482
+Rotation Angle Maximum: 3.0413812651491097
+Rotation Angle Minimum: 0.0
+Angular Acceleration Mean: 2.2466105171124098
+Angular Acceleration Standard Deviation: 2.171755214557793
+Angular Acceleration Maximum: 12.165525060596439
+Angular Acceleration Minimum: 0.0
+Difference List Average: 2.2369952893923593
